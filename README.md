@@ -21,7 +21,7 @@ Looking further into the trip durations, the duration with the highest frequency
 ### Figure 2 - Checkout Times
 <img src="Resources/fig2.png"></img>
 
-Breaking this out by Gender, females tend to use the bikes for longer by one minute (highest frequency being 6 minutes), while males take 5 minutes. As for those trips that don't have a gender specified, we can take a look further at the next figure.
+Breaking this out by gender, females tend to use the bikes for longer by one minute (highest frequency being 6 minutes), while males take 5 minutes. As for those trips that don't have a gender specified, we can take a look further at the next figure.
 ## User Trip statistics
 ### Figure 3 - User Trips by Gender by Weekday
 <img src="Resources/fig3.png"></img>
@@ -50,9 +50,9 @@ Data for those that don't have a gender specified, most riders that fall under t
 
 Many of the top starting and ending locations are within the city. Since duration of most trips span only a few minutes, the most frequently used bike stations would be within the core of the city.
 
-# Conclusions
+# Conclusion
 
-In conclusion, the majority of users of the bike-sharing program are those that use the bikes for short periods - 5 minutes mostly - and are most likely using them primarily for their morning and evening commute within the city. 
+The majority of users of the bike-sharing program are those that use the bikes for short periods - 5 minutes mostly - and are most likely using them primarily for their morning and evening commute within the city. 
 
 These riders are mostly registered subscribers that are regular users, which mainly use the service monday to friday to get to and from work in the city. This can be deduced by observing [Figure 4](#Figure-4---User-Trips-by-Weekday-per-Hour) as rentals taken out during the weekdays are mainly in the mornings (7am-9am) and evenings (5pm-7pm). Trends between male and female follow one another, with higher volume for males. 
 
